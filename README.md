@@ -1,5 +1,5 @@
-# books
-List of books I read, am reading or am interested in reading
+# Books
+List of books I read, am reading or am interested in reading.
 
 | Name | Author |  Pages | Time |
 | ------ | ------ |------ |------ |
@@ -16,5 +16,15 @@ List of books I read, am reading or am interested in reading
 |[The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=pd_sbs_10/141-8257794-6507107?pd_rd_w=0OLTr&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=61TA8VBMEGXERNP0Z61M&pd_rd_r=f6b5893b-2126-4c20-a218-0699322f42c8&pd_rd_wg=0udFN&pd_rd_i=0321751043&psc=1)| Donald Knuth && Donald John Fuller | 9998 |  0 days |
 | [The Linux Programming Interface](https://www.amazon.com/gp/product/B004OEJMZM/ref=dbs_a_def_rwt_bibl_vppi_i0) | Michael Kerrisk | 1553 | 0 days | 
 | [Linux Bible](https://www.amazon.com/Linux-Bible-Christopher-Negus-ebook/dp/B089Y5P85X/ref=sr_1_1?dchild=1&keywords=bible+linux&qid=1630973984&s=digital-text&sr=1-1)|Christopher Negus | 880 | 0 days |
+| [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-Approach-Kaufmann/dp/0128119055/ref=pd_sbs_20/141-8257794-6507107?pd_rd_w=0OLTr&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=61TA8VBMEGXERNP0Z61M&pd_rd_r=f6b5893b-2126-4c20-a218-0699322f42c8&pd_rd_wg=0udFN&pd_rd_i=0128119055&psc=1) | John L. Hennessy &  David A. Patterson | 936 | 0 days | 
+| [Java Unleashed](https://www.amazon.com.br/dp/1575210495/?coliid=I1V40P3K66H753&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Michael Morrison | 971 | 0 days |
+| [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com.br/dp/0201835959/?coliid=I2PSH94J7DVCPI&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Frederick P. Brooks | 336  | 0 days |
+|[Computer Vision](https://www.amazon.com.br/dp/0131653164/?coliid=I3FXBLWWY2RAGR&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it)| Dana H. Ballard & Christopher M. Brown | 544 | 84 days |
+| [Neuro-Robotics](https://www.amazon.com.br/dp/B00S16PTL0/?coliid=I1TU1IFZ9MOKJE&colid=1UAI3ZQGIR508&psc=0&ref_=lv_ov_lig_dp_it)| Panagiotis Artemiadis | 701 | 0 days |
 | [Java: Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799/ref=asc_df_8543004799/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=689054720333189931&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-811137648368&psc=1) | Paul Deitel & Harvey Deitel | 968 | 108 Days |
 | [C: Como Programar](https://www.amazon.com.br/C-como-programar-Paul-Deitel/dp/8576059347/ref=sr_1_2?dchild=1&qid=1630941050&refinements=p_27%3APaul+Deitel&s=books&sr=1-2&text=Paul+Deitel&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6) | Paul Deitel & Harvey Deitel | 846 | 92 Days |
+| [Introdução à Organização de Computadores](https://www.amazon.com.br/dp/8521615434/?coliid=IYRKB0UHTZZVI&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Monteiro | 720 | 0 days |
+|[Estrutura de Dados e Técnicas de Programação](https://www.amazon.com.br/dp/8535274375/?coliid=I3PJK797575PBC&colid=1UAI3ZQGIR508&psc=0&ref_=lv_ov_lig_dp_it)| Francisco Francisco Bianchi | 416 | 0 days |
+| [Engenharia de Software](https://www.amazon.com.br/dp/8543024978/?coliid=IHFN2WC0BZ04&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Ian Sommerville | 768 | 0 days |
+|[Máquinas Elétricas](https://www.amazon.com.br/M%C3%A1quinas-El%C3%A9tricas-Fitzgerald-Kingsley-Stephen/dp/8580553733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)| Fitzgerald & Kingsley | 728 | 0 days |
+| [Fundamentos de Circuitos Elétricos com Aplicações](https://www.amazon.com.br/Fundamentos-Circuitos-El%C3%A9tricos-Charles-Alexander/dp/8580551722/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | Charles K. Alexander & Matthew Sadiku | 896 | 0 days |
