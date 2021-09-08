@@ -20,7 +20,8 @@ List of books I read, am reading or am interested in reading.
 | [Java Unleashed](https://www.amazon.com.br/dp/1575210495/?coliid=I1V40P3K66H753&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Michael Morrison | 971 | 0 days |
 | [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com.br/dp/0201835959/?coliid=I2PSH94J7DVCPI&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Frederick P. Brooks | 336  | 0 days |
 |[Computer Vision](https://www.amazon.com.br/dp/0131653164/?coliid=I3FXBLWWY2RAGR&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it)| Dana H. Ballard & Christopher M. Brown | 544 | 84 days |
-| [Neuro-Robotics](https://www.amazon.com.br/dp/B00S16PTL0/?coliid=I1TU1IFZ9MOKJE&colid=1UAI3ZQGIR508&psc=0&ref_=lv_ov_lig_dp_it)| Panagiotis Artemiadis | 701 | 0 days |
+| [Neuro-Robotics](https://www.amazon.com.br/dp/B00S16PTL0/?coliid=I1TU1IFZ9MOKJE&colid=1UAI3ZQGIR508&psc=0&ref_=lv_ov_lig_dp_it)| Panagiotis Artemiadis | 701 | 0 days 
+|[Operating Systems](https://www.amazon.com.br/Operating-Systems-Internals-Design-Principles/dp/013230998X)| William Stallings| 816 | 0 days |
 | [Java: Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799/ref=asc_df_8543004799/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=689054720333189931&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-811137648368&psc=1) | Paul Deitel & Harvey Deitel | 968 | 108 Days |
 | [C: Como Programar](https://www.amazon.com.br/C-como-programar-Paul-Deitel/dp/8576059347/ref=sr_1_2?dchild=1&qid=1630941050&refinements=p_27%3APaul+Deitel&s=books&sr=1-2&text=Paul+Deitel&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6) | Paul Deitel & Harvey Deitel | 846 | 92 Days |
 | [Introdução à Organização de Computadores](https://www.amazon.com.br/dp/8521615434/?coliid=IYRKB0UHTZZVI&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Monteiro | 720 | 0 days |
