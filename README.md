@@ -29,3 +29,4 @@ List of books I read, am reading or am interested in reading.
 | [Engenharia de Software](https://www.amazon.com.br/dp/8543024978/?coliid=IHFN2WC0BZ04&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Ian Sommerville | 768 | 0 days |
 |[Máquinas Elétricas](https://www.amazon.com.br/M%C3%A1quinas-El%C3%A9tricas-Fitzgerald-Kingsley-Stephen/dp/8580553733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)| Fitzgerald & Kingsley | 728 | 0 days |
 | [Fundamentos de Circuitos Elétricos com Aplicações](https://www.amazon.com.br/Fundamentos-Circuitos-El%C3%A9tricos-Charles-Alexander/dp/8580551722/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | Charles K. Alexander & Matthew Sadiku | 896 | 0 days |
+| [JavaScript: O Guia Definitivo](https://www.amazon.com.br/dp/B016N7G8EK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | David Flanagan | 1080  | 74 days |
