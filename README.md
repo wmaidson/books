@@ -21,12 +21,12 @@ List of books I read, am reading or am interested in reading.
 | [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com.br/dp/0201835959/?coliid=I2PSH94J7DVCPI&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Frederick P. Brooks | 336  | ❌ |
 |[Computer Vision](https://www.amazon.com.br/dp/0131653164/?coliid=I3FXBLWWY2RAGR&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it)| Dana H. Ballard & Christopher M. Brown | 544 | ✔️ |
 | [Neuro-Robotics](https://www.amazon.com.br/dp/B00S16PTL0/?coliid=I1TU1IFZ9MOKJE&colid=1UAI3ZQGIR508&psc=0&ref_=lv_ov_lig_dp_it)| Panagiotis Artemiadis | 701 | ❌ 
-|[Operating Systems](https://www.amazon.com.br/Operating-Systems-Internals-Design-Principles/dp/013230998X)| William Stallings| 816 | 0 days |
+|[Operating Systems](https://www.amazon.com.br/Operating-Systems-Internals-Design-Principles/dp/013230998X)| William Stallings| 816 | ❌ |
 | [Java: Como Programar](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799/ref=asc_df_8543004799/?tag=googleshopp00-20&linkCode=df0&hvadid=379748659420&hvpos=&hvnetw=g&hvrand=689054720333189931&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-811137648368&psc=1) | Paul Deitel & Harvey Deitel | 968 | ✔️ |
 | [C: Como Programar](https://www.amazon.com.br/C-como-programar-Paul-Deitel/dp/8576059347/ref=sr_1_2?dchild=1&qid=1630941050&refinements=p_27%3APaul+Deitel&s=books&sr=1-2&text=Paul+Deitel&ufe=app_do%3Aamzn1.fos.e05b01e0-91a7-477e-a514-15a32325a6d6) | Paul Deitel & Harvey Deitel | 846 | ✔️ |
 | [Introdução à Organização de Computadores](https://www.amazon.com.br/dp/8521615434/?coliid=IYRKB0UHTZZVI&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Monteiro | 720 | ❌ |
 |[Estrutura de Dados e Técnicas de Programação](https://www.amazon.com.br/dp/8535274375/?coliid=I3PJK797575PBC&colid=1UAI3ZQGIR508&psc=0&ref_=lv_ov_lig_dp_it)| Francisco Francisco Bianchi | 416 | ❌ |
-| [Engenharia de Software](https://www.amazon.com.br/dp/8543024978/?coliid=IHFN2WC0BZ04&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Ian Sommerville | 768 | 0 days |
+| [Engenharia de Software](https://www.amazon.com.br/dp/8543024978/?coliid=IHFN2WC0BZ04&colid=1UAI3ZQGIR508&psc=1&ref_=lv_ov_lig_dp_it) | Ian Sommerville | 768 | ❌ |
 |[Máquinas Elétricas](https://www.amazon.com.br/M%C3%A1quinas-El%C3%A9tricas-Fitzgerald-Kingsley-Stephen/dp/8580553733/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)| Fitzgerald & Kingsley | 728 | ❌ |
 | [Fundamentos de Circuitos Elétricos com Aplicações](https://www.amazon.com.br/Fundamentos-Circuitos-El%C3%A9tricos-Charles-Alexander/dp/8580551722/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | Charles K. Alexander & Matthew Sadiku | 896 | ❌ |
 | [JavaScript: O Guia Definitivo](https://www.amazon.com.br/dp/B016N7G8EK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | David Flanagan | 1080  | ✔️ |
