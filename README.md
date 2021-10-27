@@ -1,5 +1,5 @@
 # Books
-List of books I read, am reading or am interested in reading.
+List of books I read, I'm reading or I'm interested in reading.
 
 | Name | Author |  Pages | Read |
 | ------ | ------ |------ |------ |
